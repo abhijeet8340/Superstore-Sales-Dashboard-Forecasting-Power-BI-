@@ -26,11 +26,13 @@ https://app.powerbi.com/view?r=eyJrIjoiYzMyYTVkN2EtN2UxYS00YjI3LWE4NDUtZDkzNDQzM
 
 ### 🔹 Sales Dashboard
 
-![Sales Dashboard](images/dashboard1.png)
+<img width="866" height="487" alt="image" src="https://github.com/user-attachments/assets/8d251f28-ad64-4fd1-9d1d-2c7ca2a01c30" />
+
 
 ### 🔹 Sales Forecast (15 Days)
 
-![Forecast Dashboard](images/dashboard2.png)
+<img width="865" height="490" alt="image" src="https://github.com/user-attachments/assets/3ee6e19f-5a3e-4f68-a53e-23d7202c158b" />
+
 
 ---
 
